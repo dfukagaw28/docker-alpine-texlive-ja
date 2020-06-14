@@ -33,7 +33,7 @@ PRs accepted.
 
 ## License
 
-MIT © 3846masa
+MIT (C) dfukagaw28
 
 
 
